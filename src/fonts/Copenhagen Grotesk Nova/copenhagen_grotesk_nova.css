@@ -1,0 +1,21 @@
+@font-face {
+    font-family: "Copenhagen Grotes Nova";
+    src: url('./regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Copenhagen Grotes Nova";
+    src: url('./bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Copenhagen Grotes Nova";
+    src: url('./light.otf') format('opentype');
+    font-weight: lighter;
+    font-style: normal;
+}
+  

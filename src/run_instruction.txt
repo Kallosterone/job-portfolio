@@ -1,0 +1,2 @@
+cd portfolio-showcase
+npm run dev
