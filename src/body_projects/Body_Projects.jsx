@@ -21,8 +21,8 @@ function Body_Projects() {
                         </div>
                         
                         <div className={`${styles["projectimg-container"]}`}>
-                            <img className={`${styles["projectimg-cover"]}`} src="../project1_cover.png"/>
-                            <img className={`${styles["projectimg-background"]}`} src="../project1_background.jpg"/>
+                            <img className={`${styles["projectimg-cover"]}`} src="project1_cover.png"/>
+                            <img className={`${styles["projectimg-background"]}`} src="project1_background.jpg"/>
                         </div>
                     </div>
 
@@ -39,14 +39,14 @@ function Body_Projects() {
                         </div>
 
                         <div className={`${styles["projectimg-container"]}`}>
-                            <img className={`${styles["projectimg-cover"]}`} src="../project2_cover.png"/>
-                            <img className={`${styles["projectimg-background"]}`} src="../project2_background.png"/>
+                            <img className={`${styles["projectimg-cover"]}`} src="project2_cover.png"/>
+                            <img className={`${styles["projectimg-background"]}`} src="project2_background.png"/>
                         </div>
                     </div>
 
                     <div className={`${styles.container_gap1}`}>
                         <div>
-                            <h3>Website Development - Sheimg</h3>
+                            <h3>Website Development - Scrapyi</h3>
                         </div>
                         <div>
                             <p className={`${styles["text-justify"]}`}>
@@ -57,8 +57,8 @@ function Body_Projects() {
                         </div>
 
                         <div className={`${styles["projectimg-container"]}`}>
-                            <img className={`${styles["projectimg-cover"]}`} src="../project3_cover.png"/>
-                            <img className={`${styles["projectimg-background"]}`} src="../project3_background.png"/>
+                            <img className={`${styles["projectimg-cover"]}`} src="project3_cover.png"/>
+                            <img className={`${styles["projectimg-background"]}`} src="project3_background.png"/>
                         </div>
                     </div>
 
@@ -75,8 +75,8 @@ function Body_Projects() {
                         </div>
 
                         <div className={`${styles["projectimg-container"]}`}>
-                            <img className={`${styles["projectimg-cover"]}`} src="../project4_cover.jpg"/>
-                            <img className={`${styles["projectimg-background"]}`} src="../project4_background.png"/>
+                            <img className={`${styles["projectimg-cover"]}`} src="project4_cover.jpg"/>
+                            <img className={`${styles["projectimg-background"]}`} src="project4_background.png"/>
                         </div>
                     </div>
 
