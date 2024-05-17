@@ -17,7 +17,7 @@ function Body() {
                 {/* profile picture*/}
                 <div className={`${styles.container_verti} ${styles["container_profilepic"]}`}>
                     <div className={`${styles.container_hori} ${styles["flex-center"]} ${styles.container_gap1}`}>
-                        <img src="/person1.png" className={`${styles.profilepic1}`}/>
+                        <img src="person1.png" className={`${styles.profilepic1}`}/>
                     </div>
                     <h2 className={`${styles["text-center"]}`}>
                         Lee Jun Jie
