@@ -23,14 +23,14 @@ function Body_Education() {
                             <td>2015</td>
                             <td>
                                 <h4>SMK Taman Connaught</h4>
-                                <a className={`${styles["result-link"]}`} onClick={() => setUrlDocument("/spmresult.png")}>Check Results</a>
+                                <a className={`${styles["result-link"]}`} onClick={() => setUrlDocument("spmresult.png")}>Check Results</a>
                             </td>
                         </tr>
                         <tr>
                             <td>2020</td>
                             <td>
                                 <h4>YPC International College</h4>
-                                <a className={`${styles["result-link"]}`} onClick={() => setUrlDocument("/ljmuresult.pdf")}>Check Results</a>
+                                <a className={`${styles["result-link"]}`} onClick={() => setUrlDocument("ljmuresult.pdf")}>Check Results</a>
                             </td>
                         </tr>
                         <tr>
