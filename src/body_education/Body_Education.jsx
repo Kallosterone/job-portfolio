@@ -37,7 +37,7 @@ function Body_Education() {
                             <td>Current</td>
                             <td>
                                 <h4>Internship</h4>
-                                <p className={`${styles["marginpadding-0"]} ${styles["result-link"]}`}>Status: Vacant</p>
+                                <p className={`${styles["marginpadding-0"]} ${styles["result-link"]}`}>Status: Vacant - Looking for an internship at minimum 4 months</p>
                             </td>
                         </tr>
                     </tbody>
